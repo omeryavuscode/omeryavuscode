@@ -33,7 +33,7 @@
 
 Çapraz platform ürünler geliştiriyorum: **Flutter** ve **React Native (Expo)** ile mobil uygulamalar; **Unity** ile oyunlar ve etkileşimli deneyimler. Önceliklerim: temiz mimari, performans, sürdürülebilirlik ve kullanıcı deneyimi.
 
-## Etiketler (projelerime göre)
+## Etiketler
 
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
