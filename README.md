@@ -1,52 +1,87 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Ömer Yavuz" />
+  <img src="./assets/wallpaper-banner.svg" alt="Banner" />
 </div>
 
-<div align="center">
+<h1 align="center">Ömer Yavuz</h1>
+
+<p align="center">
+  Mobile App Developer · Flutter · React Native (Expo) · Unity
+</p>
+
+<p align="center">
   <a href="https://omeryavus.com">
-    <img alt="Website" src="https://img.shields.io/badge/Website-omeryavus.com-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img alt="Website" src="https://img.shields.io/badge/Website-omeryavus.com-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:yavusomer@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-yavusomer@gmail.com-6366f1?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-yavusomer@gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=omeryavuscode&style=for-the-badge&color=22c55e" />
-</div>
+  <a href="https://www.linkedin.com/in/omeryavus/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@omeryavus">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/omeryavus/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-Aktif olarak Flutter ve React Native/Expo ile mobil uygulamalar geliştiriyorum.
+## Hakkımda
 
-## Web Sitesi
+Çapraz platform ürünler geliştiriyorum: **Flutter** ve **React Native (Expo)** ile mobil uygulamalar; **Unity** ile oyunlar ve etkileşimli deneyimler. Önceliklerim: temiz mimari, performans, sürdürülebilirlik ve kullanıcı deneyimi.
 
-<a href="https://omeryavus.com">
-  <img src="./assets/website.png" alt="omeryavus.com" width="900" />
-</a>
+## Etiketler (projelerime göre)
 
-## Projeler
+<p>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
 
-- [mucizemesaj](https://github.com/omeryavuscode/mucizemesaj) — Mucize, ezan vakitleri, kıble bulucu ve takvim ekranları içeren Expo uygulaması.
-- [timelessmind](https://github.com/omeryavuscode/timelessmind) — Expo tabanlı bir mobil uygulama.
-- [basketball-shot](https://github.com/omeryavuscode/basketball-shot) — Expo tabanlı bir mobil uygulama.
-- [rows](https://github.com/omeryavuscode/rows) — Expo tabanlı bir mobil uygulama.
+## Öne Çıkan Projeler
 
-## Teknolojiler
+### Mobil (React Native / Expo)
 
-<div>
-  <img
-    src="https://skillicons.dev/icons?i=flutter,dart,react,expo,js,nodejs,git,github"
-    alt="Skills"
-  />
-</div>
+- [`rows`](https://github.com/omeryavuscode/rows) — Rol bazlı akış (Öğretmen/Öğrenci/Veli) ve ekran navigasyonu.
+  - Etiketler: `React Native`, `Expo`, `Navigation`
+- [`mucizemesaj`](https://github.com/omeryavuscode/mucizemesaj) — İçerik + konum tabanlı ekranlar (ezan vakitleri, kıble) ve yapay zekâ destekli bölüm.
+  - Etiketler: `React Native`, `Expo`, `Location`, `AI`
+- [`timelessmind`](https://github.com/omeryavuscode/timelessmind) — Quiz/oyun akışı, skor ve ses efektleri.
+  - Etiketler: `React Native`, `Expo`, `Audio`
 
-## GitHub İstatistikleri
+### Oyun (Unity)
 
-<div>
-  <img
-    alt="GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=omeryavuscode&show_icons=true&hide_title=true&theme=transparent"
-    height="170"
-  />
-  <img
-    alt="Top languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeryavuscode&layout=compact&theme=transparent"
-    height="170"
-  />
-</div>
+- [`unity-projects`](https://github.com/omeryavuscode/unity-projects) — Unity projelerimin genel deposu.
+  - Etiketler: `Unity`, `C#`
+- [`clean-future`](https://github.com/omeryavuscode/clean-future) · [`fortuna`](https://github.com/omeryavuscode/fortuna) · [`basketball-shot`](https://github.com/omeryavuscode/basketball-shot)
+  - Etiketler: `Unity`, `C#`
+- Diğer Unity projeleri: [`jumpy-frog`](https://github.com/omeryavuscode/jumpy-frog), [`portal`](https://github.com/omeryavuscode/portal), [`right-way`](https://github.com/omeryavuscode/right-way), [`watch-color`](https://github.com/omeryavuscode/watch-color)
+
+## İlgi Alanları
+
+- Mobil ürün geliştirme (Flutter, React Native)
+- Oyunlaştırma ve etkileşimli deneyimler (Unity)
+- UI/UX, tasarım sistemleri ve performans odaklı geliştirme
+- Yapay zekâ destekli özellikler ve entegrasyonlar
+
+<details>
+  <summary>GitHub istatistikleri</summary>
+  <br />
+  <div>
+    <img
+      alt="GitHub stats"
+      src="https://github-readme-stats.vercel.app/api?username=omeryavuscode&show_icons=true&hide_title=true&theme=transparent"
+      height="170"
+    />
+    <img
+      alt="Top languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeryavuscode&layout=compact&theme=transparent"
+      height="170"
+    />
+  </div>
+</details>
