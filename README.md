@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/omeryavusWallpaper.png" alt="Banner" />
+  <img src="./assets/banner.svg" alt="Banner" />
 </div>
 
 <h1 align="center">Ömer Yavuz</h1>
