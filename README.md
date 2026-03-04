@@ -24,6 +24,9 @@
   <a href="https://www.instagram.com/omeryavus/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+    <a href="https://www.x.com/omeryavus/">
+    <img alt="X" src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 </p>
 
 ## Hakkımda
