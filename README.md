@@ -2,7 +2,7 @@
   <div style="
     width: 100%;
     max-width: 900px;
-    height: 300px; /* istediğin kadar kırpma için yüksekliği azalt/artır */
+    height: 300px;
     overflow: hidden;
     border-radius: 20px;
   ">
