@@ -1,23 +1,10 @@
-<div align="center">
-  <div style="
-    width: 100%;
-    max-width: 900px;
-    height: 300px;
-    overflow: hidden;
-    border-radius: 20px;
-  ">
-    <img 
-      src="https://play-lh.googleusercontent.com/Wrz6R5ncHZQlja6YHVQ96Hvqq0PeYp3AVZJbli289I-KbNalX9kz07i3sctJ9c8IJ88=w3840-h2160"
-      style="
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        object-position: center;
-      "
-      alt="Banner"
-    />
-  </div>
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/omeryavuscode/omeryavuscode/main/assets/banner-rounded.png"
+    alt="Banner"
+    width="900"
+  />
+</p>
 
 <h1 align="center">Ömer Yavuz</h1>
 
