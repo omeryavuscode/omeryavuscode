@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/wallpaper-banner.svg" alt="Banner" />
+  <img src="https://play-lh.googleusercontent.com/Wrz6R5ncHZQlja6YHVQ96Hvqq0PeYp3AVZJbli289I-KbNalX9kz07i3sctJ9c8IJ88=w3840-h2160" alt="Banner" />
 </div>
 
 <h1 align="center">Ömer Yavuz</h1>
