@@ -1,5 +1,22 @@
 <div align="center">
-  <img src="https://play-lh.googleusercontent.com/Wrz6R5ncHZQlja6YHVQ96Hvqq0PeYp3AVZJbli289I-KbNalX9kz07i3sctJ9c8IJ88=w3840-h2160" alt="Banner" />
+  <div style="
+    width: 100%;
+    max-width: 900px;
+    height: 300px; /* istediğin kadar kırpma için yüksekliği azalt/artır */
+    overflow: hidden;
+    border-radius: 20px;
+  ">
+    <img 
+      src="https://play-lh.googleusercontent.com/Wrz6R5ncHZQlja6YHVQ96Hvqq0PeYp3AVZJbli289I-KbNalX9kz07i3sctJ9c8IJ88=w3840-h2160"
+      style="
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center;
+      "
+      alt="Banner"
+    />
+  </div>
 </div>
 
 <h1 align="center">Ömer Yavuz</h1>
